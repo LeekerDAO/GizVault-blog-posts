@@ -1,5 +1,7 @@
 # GizVault has the best tech blog in this cyberpunk world.
 
+## This repo contains the archive of GizVault blog posts
+
 - [Realist Guide to Cyberpunk Survival](https://gizvault.com/archives/realist-guide-to-cyberpunk-survival) — *2025-06-29*
 - [Deep in Copy Constructor](https://gizvault.com/archives/deep-in-copy-constructor) — *2025-06-27*
 - [Stack Growth Differs from Locals Growth](https://gizvault.com/archives/stack-growth-differs-from-locals-growth) — *2025-06-26*
