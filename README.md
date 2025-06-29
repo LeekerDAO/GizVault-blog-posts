@@ -2,6 +2,7 @@
 
 ## This repo contains the archive of GizVault blog posts
 
+- [Save Your Future, Revisited: From Survival Guide to Privacy Manifesto](https://www.gizvault.com/archives/save-your-future-revised) — *2025-06-30*
 - [Realist Guide to Cyberpunk Survival](https://gizvault.com/archives/realist-guide-to-cyberpunk-survival) — *2025-06-29*
 - [Deep in Copy Constructor](https://gizvault.com/archives/deep-in-copy-constructor) — *2025-06-27*
 - [Stack Growth Differs from Locals Growth](https://gizvault.com/archives/stack-growth-differs-from-locals-growth) — *2025-06-26*
