@@ -7,6 +7,7 @@
 - [Programming Language Switching Politics: A Rigged Game of Power](https://www.gizvault.com/archives/language-switching-politics) — *2025-06-30*
 
 ### Blog posts
+- [Product Design, Developers and AI](https://www.gizvault.com/archives/product-design-dev-and-ai) — *2025-07-03*
 - [Save Your Future, Revisited: From Survival Guide to Privacy Manifesto](https://www.gizvault.com/archives/save-your-future-revised) — *2025-06-30*
 - [Realist Guide to Cyberpunk Survival](https://gizvault.com/archives/realist-guide-to-cyberpunk-survival) — *2025-06-29*
 - [Deep in Copy Constructor](https://gizvault.com/archives/deep-in-copy-constructor) — *2025-06-27*
