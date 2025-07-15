@@ -9,6 +9,7 @@
 - [Programming Language Switching Sociology: Be a Human](https://www.gizvault.com/archives/language-switching-sociology) — *2025-07-09*
 
 ### Blog posts
+- [Cyberpunk and Politics: Neon Dystopias, Power, and Resistance](https://www.gizvault.com/archives/cyberpunk-and-politics) — *2025-07-15*
 - [What’s Microdata — and Why Does GizVault Care About It?](https://www.gizvault.com/archives/what-is-microdata) — *2025-07-14*
 - [Product Design, Developers and AI](https://www.gizvault.com/archives/product-design-dev-and-ai) — *2025-07-03*
 - [Save Your Future, Revisited: From Survival Guide to Privacy Manifesto](https://www.gizvault.com/archives/save-your-future-revised) — *2025-06-30*
