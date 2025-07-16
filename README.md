@@ -3,6 +3,7 @@
 ## This repo contains the archive of GizVault blog posts
 
 ### Language switching theory
+- [Software Freedom and Cyberpunk: Why Freedom Still Matters](https://www.gizvault.com/archives/software-freedom-and-cyberpunk) — *2025-07-16*
 - [The Ideological Gravity of FOSS](https://www.gizvault.com/archives/ideological-gravity-of-foss) — *2025-07-14*
 - [Language Switching Economics](https://gizvault.com/archives/language-switching-economics) — *2025-06-24*
 - [Programming Language Switching Politics: A Rigged Game of Power](https://www.gizvault.com/archives/language-switching-politics) — *2025-06-30*
