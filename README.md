@@ -9,6 +9,9 @@
 - [Programming Language Switching Politics: A Rigged Game of Power](https://www.gizvault.com/archives/language-switching-politics) — *2025-06-30*
 - [Programming Language Switching Sociology: Be a Human](https://www.gizvault.com/archives/language-switching-sociology) — *2025-07-09*
 
+### Web3
+- [Kill the Middleman, Hack the Tower](https://www.gizvault.com/archives/kill-the-middle-man-hack-the-power) — *2025-07-22*
+
 ### Blog posts
 - [Cyberpunk and Politics: Neon Dystopias, Power, and Resistance](https://www.gizvault.com/archives/cyberpunk-and-politics) — *2025-07-15*
 - [What’s Microdata — and Why Does GizVault Care About It?](https://www.gizvault.com/archives/what-is-microdata) — *2025-07-14*
