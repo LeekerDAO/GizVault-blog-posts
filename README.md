@@ -13,6 +13,9 @@
 - [Crypto Doesn’t Need Blockchain](https://www.gizvault.com/archives/crypto-doesnt-need-blockchain) — *2025-07-24*
 - [Kill the Middleman, Hack the Tower](https://www.gizvault.com/archives/kill-the-middle-man-hack-the-power) — *2025-07-22*
 
+### FOSS Community
+- [The Lost Path to Seniorhood](https://www.gizvault.com/archives/the-lost-path-to-seniorhood) - *2025-07-27*
+
 ### Blog posts
 - [Cyberpunk and Politics: Neon Dystopias, Power, and Resistance](https://www.gizvault.com/archives/cyberpunk-and-politics) — *2025-07-15*
 - [What’s Microdata — and Why Does GizVault Care About It?](https://www.gizvault.com/archives/what-is-microdata) — *2025-07-14*
