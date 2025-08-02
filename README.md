@@ -10,6 +10,7 @@
 - [Programming Language Switching Sociology: Be a Human](https://www.gizvault.com/archives/language-switching-sociology) — *2025-07-09*
 
 ### Web3
+- [Thinking In Crypto Security For Cyberpunk Individuals](https://www.gizvault.com/archives/crypto-security--for-cyberpunk) - *2025-08-02*
 - [Crypto Doesn’t Need Blockchain](https://www.gizvault.com/archives/crypto-doesnt-need-blockchain) — *2025-07-24*
 - [Kill the Middleman, Hack the Tower](https://www.gizvault.com/archives/kill-the-middle-man-hack-the-power) — *2025-07-22*
 
