@@ -32,6 +32,7 @@
 - [Animula Alonzo Revived](https://gizvault.com/archives/animula-alonzo-revived) — *2025-06-01*
 
 ### AI
+- [Open Source and OpenAI's Return](https://www.gizvault.com/archives/oss-and-openai-return) — *2025-08-06*
 - [Product Design, Developers and AI](https://www.gizvault.com/archives/product-design-dev-and-ai) — *2025-07-03*
 - [The Most Ethical AI](https://gizvault.com/archives/the-most-ethical-ai) — *2025-06-19*
 - [Unix Philosophy for Past AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era) — *2025-06-11*
