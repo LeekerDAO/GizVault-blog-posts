@@ -36,6 +36,9 @@
 - [The Most Ethical AI](https://gizvault.com/archives/the-most-ethical-ai) — *2025-06-19*
 - [Unix Philosophy for Past AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era) — *2025-06-11*
 
+### Life Story
+- [Nerd vs. Dealers](https://www.gizvault.com/archives/nerd-vs-dealer) — *2025-08-05*
+
 ### Blog posts
 - [Cyberpunk and Politics: Neon Dystopias, Power, and Resistance](https://www.gizvault.com/archives/cyberpunk-and-politics) — *2025-07-15*
 - [What’s Microdata — and Why Does GizVault Care About It?](https://www.gizvault.com/archives/what-is-microdata) — *2025-07-14*
