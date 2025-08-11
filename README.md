@@ -22,6 +22,7 @@
 - [How We Build Matrix Today with FOSS](https://gizvault.com/archives/how-we-build-matrix-today-with-foss) — *2025-06-23*
 
 ### Programming
+- [What is Fil-c and how to use it?](https://www.gizvault.com/archives/what-is-fil-c-and-how-to-use-it) — *2025-08-11*
 - [Deep in Copy Constructor](https://gizvault.com/archives/deep-in-copy-constructor) — *2025-06-27*
 - [What Is Stack Use-After-Return](https://gizvault.com/archives/what-is-stack-use-after-return) — *2025-06-02*
 - [Rewrite OS Without C: Why, How, and When](https://gizvault.com/archives/rewrite-os-without-c-why-how-and-when) — *2025-06-04*
