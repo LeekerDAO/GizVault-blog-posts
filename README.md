@@ -40,6 +40,7 @@
 - [Unix Philosophy for Past AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era) — *2025-06-11*
 
 ### Life Story
+- [Every Engineer Has Own Steering Wheel](https://www.gizvault.com/archives/every-engineer-has-own-steering-wheel) — *2025-08-13*
 - [Warranty That Was Never Meant to Protect You](https://www.gizvault.com/archives/warranty-never-protect-you) — *2025-08-07*
 - [Nerd vs. Dealers](https://www.gizvault.com/archives/nerd-vs-dealer) — *2025-08-05*
 
